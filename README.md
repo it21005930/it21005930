@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*i8-u-V8LTTbQwTeUwLI_BQ.gif)
+
 <h1 align="center">Hi 👋, I'm Sahan Thiloshana</h1>
 <h3 align="center">I am undergraduate student at SLIIT</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
